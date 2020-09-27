@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e7cb84-2320-41d6-9147-31f659895a62" name="Default Changelist" comment="task: Changed List Border, Breadcrumb background color, class card bg and text color." />
+    <list default="true" id="f4e7cb84-2320-41d6-9147-31f659895a62" name="Default Changelist" comment="task: Changed List Border, Breadcrumb background color, class card bg and text color.">
+      <change beforePath="$PROJECT_DIR$/docs/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browser_wars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dot_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dot_com.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internet_search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hh13Y8ZWVZohp3KC65LOVZfSOK" />
@@ -74,7 +80,7 @@
       <workItem from="1600448311426" duration="7075000" />
       <workItem from="1600876527789" duration="2631000" />
       <workItem from="1601053867620" duration="616000" />
-      <workItem from="1601231401180" duration="6355000" />
+      <workItem from="1601231401180" duration="6434000" />
     </task>
     <task id="LOCAL-00001" summary="task: initial commit">
       <created>1600448863363</created>
@@ -195,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601237785887</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task: Changed List Border, Breadcrumb background color, class card bg and text color.">
+      <created>1601237813144</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601237813144</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1005" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601053884251" />
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1601237786976">
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1601237818449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601237786976" />
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601237818449" />
     <state x="1310" y="473" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600448840176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
