@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e7cb84-2320-41d6-9147-31f659895a62" name="Default Changelist" comment="task: Changed Breadcrumb background color">
-      <change beforePath="$PROJECT_DIR$/docs/people_part.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people_part.html" afterDir="false" />
-    </list>
+    <list default="true" id="f4e7cb84-2320-41d6-9147-31f659895a62" name="Default Changelist" comment="task: Changed List Border, Breadcrumb background color, class card bg and text color." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,7 @@
       <workItem from="1600448311426" duration="7075000" />
       <workItem from="1600876527789" duration="2631000" />
       <workItem from="1601053867620" duration="616000" />
-      <workItem from="1601231401180" duration="6053000" />
+      <workItem from="1601231401180" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="task: initial commit">
       <created>1600448863363</created>
@@ -183,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601236350040</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="task: Changed List Border, Breadcrumb background color, class card bg and text color.">
+      <created>1601237649879</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601237649879</updated>
+    </task>
+    <task id="LOCAL-00017" summary="task: Changed List Border, Breadcrumb background color, class card bg and text color.">
+      <created>1601237785887</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601237785887</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +225,8 @@
     <MESSAGE value="task: Changed NavBar color, and changed list group colors" />
     <MESSAGE value="task: Changed Tittle of each page" />
     <MESSAGE value="task: Changed Breadcrumb background color" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: Changed Breadcrumb background color" />
+    <MESSAGE value="task: Changed List Border, Breadcrumb background color, class card bg and text color." />
+    <option name="LAST_COMMIT_MESSAGE" value="task: Changed List Border, Breadcrumb background color, class card bg and text color." />
   </component>
   <component name="WindowStateProjectService">
     <state x="817" y="208" key="#Deployment" timestamp="1600448359636">
@@ -232,10 +245,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1005" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601053884251" />
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1601236352032">
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1601237786976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601236352032" />
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601237786976" />
     <state x="1310" y="473" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600448840176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
