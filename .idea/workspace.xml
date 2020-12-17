@@ -19,12 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e7cb84-2320-41d6-9147-31f659895a62" name="Default Changelist" comment="task: Added text for 2 pages and added images to the pages.">
-      <change afterPath="$PROJECT_DIR$/docs/broswer-wars.p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/internet-inv.p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/people-power.p1.jpg" afterDir="false" />
+    <list default="true" id="f4e7cb84-2320-41d6-9147-31f659895a62" name="Default Changelist" comment="task: Added text to all pages and added images to all">
+      <change afterPath="$PROJECT_DIR$/docs/favicon2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/heroImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/hero_image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browser_wars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dot_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dot_com.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internet_search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/people_part.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people_part.html" afterDir="false" />
@@ -55,14 +58,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,12 +76,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Z3rrg\WebstormProjects\is117HistoryOfInternet\docs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Z3rrg\WebstormProjects\is117HistoryOfInternet\docs" />
       <recent name="C:\Users\Z3rrg\WebstormProjects\is117HistoryOfInternet" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Z3rrg\WebstormProjects\is117HistoryOfInternet\docs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,7 +99,14 @@
       <workItem from="1601238361883" duration="73000" />
       <workItem from="1601341761647" duration="19000" />
       <workItem from="1601341805610" duration="1190000" />
-      <workItem from="1601414757908" duration="5075000" />
+      <workItem from="1601414757908" duration="6043000" />
+      <workItem from="1602597648273" duration="150000" />
+      <workItem from="1602695310108" duration="17000" />
+      <workItem from="1602695949257" duration="1101000" />
+      <workItem from="1602698959325" duration="713000" />
+      <workItem from="1602699851358" duration="4096000" />
+      <workItem from="1604332207552" duration="637000" />
+      <workItem from="1608151220565" duration="9492000" />
     </task>
     <task id="LOCAL-00001" summary="task: initial commit">
       <created>1600448863363</created>
@@ -245,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601419036196</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="task: Added text to all pages and added images to all">
+      <created>1601420225609</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601420225609</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,13 +295,14 @@
     <MESSAGE value="task: Changed Breadcrumb background color" />
     <MESSAGE value="task: Changed List Border, Breadcrumb background color, class card bg and text color." />
     <MESSAGE value="task: Added text for 2 pages and added images to the pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="task: Added text for 2 pages and added images to the pages." />
+    <MESSAGE value="task: Added text to all pages and added images to all" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: Added text to all pages and added images to all" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1058" y="294" key="#Deployment" timestamp="1601416060131">
+    <state x="895" y="288" key="#Deployment" timestamp="1601420443535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1058" y="294" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1601416060131" />
+    <state x="895" y="288" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1601420443535" />
     <state x="1042" y="281" key="#SSH_Configurations" timestamp="1601415684958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -297,14 +315,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="580" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601231538420" />
-    <state x="1005" y="291" key="FileChooserDialogImpl" timestamp="1601419265867">
+    <state x="1005" y="291" key="FileChooserDialogImpl" timestamp="1608159454319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1005" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601419265867" />
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1601419041676">
+    <state x="1005" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608159454319" />
+    <state x="712" y="550" key="Github.ShareDialog" timestamp="1608159919008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601419041676" />
+    <state x="712" y="550" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608159919008" />
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1601420227219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601420227219" />
     <state x="1351" y="366" key="ftp.server.browser" timestamp="1601415765683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
